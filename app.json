@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "UniFlow",
-    "slug": "UniFlow",
+    "slug": "uniflow",
+    "scheme": "uniflow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,6 +20,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-notifications",
+      "@react-native-community/datetimepicker"
+    ]
   }
 }
