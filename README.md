@@ -1,9 +1,9 @@
 # UniFlow – Student Organizer App
 
-**PS/2022/100**
-**A.L.H.K. LIYANAGE**
-**Mobile Application Development**
-**Demostration video link: https://drive.google.com/file/d/1hmIO5QW7AZxcFTVWSexABFhpLbgKeMkz/view?usp=sharing** 
+- **PS/2022/100**
+- **A.L.H.K. LIYANAGE**
+- **Mobile Application Development**
+- **Demostration video link: https://drive.google.com/file/d/1hmIO5QW7AZxcFTVWSexABFhpLbgKeMkz/view?usp=sharing** 
 
 **UniFlow** is a mobile student organizer application designed to help university students manage their academic activities and stay organized in one place.
 
