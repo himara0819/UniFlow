@@ -1,7 +1,7 @@
-PS/2022/100
-A.L.H.K. LIYANAGE
-Mobile Application Development
-Demostration video link: https://drive.google.com/file/d/1hmIO5QW7AZxcFTVWSexABFhpLbgKeMkz/view?usp=sharing 
+-PS/2022/100
+-A.L.H.K. LIYANAGE
+-Mobile Application Development
+-Demostration video link: https://drive.google.com/file/d/1hmIO5QW7AZxcFTVWSexABFhpLbgKeMkz/view?usp=sharing 
 
 # UniFlow – Student Organizer App
 
